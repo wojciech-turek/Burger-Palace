@@ -1,0 +1,22 @@
+[debug] [2020-02-02T20:34:50.076Z] ----------------------------------------------------------------------
+[debug] [2020-02-02T20:34:50.079Z] Command:       C:\Users\Wojtek\Desktop\KURSWE~1\BURGER~1\img\firebase-tools-instant-win.exe C:\Users\Wojtek\.cache\firebase\tools\lib\node_modules\firebase-tools\lib\bin\firebase serve --only hosting
+[debug] [2020-02-02T20:34:50.079Z] CLI Version:   7.12.1
+[debug] [2020-02-02T20:34:50.079Z] Platform:      win32
+[debug] [2020-02-02T20:34:50.079Z] Node Version:  v12.13.1
+[debug] [2020-02-02T20:34:50.080Z] Time:          Sun Feb 02 2020 21:34:50 GMT+0100 (GMT+01:00)
+[debug] [2020-02-02T20:34:50.080Z] ----------------------------------------------------------------------
+[debug] [2020-02-02T20:34:50.080Z] 
+[debug] [2020-02-02T20:34:50.088Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-02-02T20:34:50.088Z] > authorizing via signed-in user
+[debug] [2020-02-02T20:34:50.088Z] [iam] checking project burgerpalace for permissions ["firebase.projects.get"]
+[debug] [2020-02-02T20:34:50.090Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/burgerpalace:testIamPermissions  
+
+[debug] [2020-02-02T20:34:51.015Z] <<< HTTP RESPONSE 200
+[debug] [2020-02-02T20:34:51.017Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/burgerpalace  
+ 
+[debug] [2020-02-02T20:34:51.537Z] <<< HTTP RESPONSE 200
+[debug] [2020-02-02T20:34:51.541Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/burgerpalace/webApps/-/config  
+ 
+[debug] [2020-02-02T20:34:52.182Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: public
+[info] +  hosting: Local server: http://localhost:5000
