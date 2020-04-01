@@ -1152,15 +1152,15 @@ button.careers i {
     }
 
     .images .image1 {
-        background-image: url("../img/burger1-1920.jpg");
+        background-image: url(/img/burger1-1920.jpg);
     }
 
     .images .image2 {
-        background-image: url("/img/burger2-1920.jpg");
+        background-image: url(/img/burger2-1920.jpg);
     }
 
     .images .image3 {
-        background-image: url("img/burger3-1920.jpg");
+        background-image: url(img/burger3-1920.jpg);
     }
 
     .images .image4 {
