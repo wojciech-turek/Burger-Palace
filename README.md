@@ -38,9 +38,10 @@ https://wojciech-turek.github.io/Burger-Palace/#
 Desktop view
 <img src="https://i.ibb.co/WkcyXyP/burgerpalaceweb.jpg"  alt="Main Menu Desktop">
 
-Mobile view with side menu open
+Mobile view
 
 <img src="https://i.ibb.co/yNryFQC/burgerpalacemob.jpg"  alt="Main Menu Mobile">
+
 
 ## Available scripts
 
